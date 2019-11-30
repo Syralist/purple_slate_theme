@@ -1,11 +1,12 @@
-# Green Slate Theme for Home Assistant
-Green adaptation of this Home-Assistant theme:  https://github.com/seangreen2/slate_theme
+# Purple Slate Theme for Home Assistant
+Purple adaptation of this Home-Assistant theme:  https://github.com/seangreen2/slate_theme
+Forked from https://github.com/pbeckcom/green_slate_theme
 
 ---
 
 ### Installation
 
-Download the `green_slate.yaml` file from inside the `themes` directory here to your local `themes` directory.
+Download the `purple.yaml` file from inside the `themes` directory here to your local `themes` directory.
 
 Make sure to add `themes: !include_dir_merge_named themes` under `frontend:` in your `config.yaml` like so:
 
